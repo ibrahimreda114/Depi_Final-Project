@@ -30,5 +30,5 @@ The source data began as a single **Flat File** containing merged transactional 
 
 ## 📂 Project Structure 🔗
 Detailed documentation for this project is available in the following files:
-* [⚙️ Data Preparation and Processing](Data_Preparation_and_Processing.md)
-* [📊 Analytics and Dashboard Deep Dive](Analytics_and_Dashboard.md)
+* [⚙️ Data Preparation and Processing](https://github.com/ibrahimreda114/Depi_Final-Project/blob/main/Data_Preparation%20and%20Processing.md)
+* [📊 Analytics and Dashboard Deep Dive](https://github.com/ibrahimreda114/Depi_Final-Project/blob/main/Analytics_and_Dashboard.md)
