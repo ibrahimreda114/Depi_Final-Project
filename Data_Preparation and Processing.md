@@ -23,7 +23,7 @@ The central table containing the metrics and foreign keys:
 Descriptive tables used for slicing and filtering the Fact table:
 * **Dim_Products:** Derived from `SKU`, `Product Type`, and `Price`.
 * **Dim_Suppliers:** Derived from `Supplier name`, `Manufacturing lead time`, and `Location`.
-* **Dim_Shipping:** Derived from `Shipping carrier`, `Transportation Mode`, and `Shipping costs`.
+* **Dim_Shipping:** Derived from `Shipping carrier`, `Transportation Mode`, and `Routes`.
 * **Dim_Customers:** Derived from `Customer demographics`.
 
 ## 4️⃣ DAX Measures
