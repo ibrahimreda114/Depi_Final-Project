@@ -38,5 +38,5 @@ Several measures were created to calculate key financial and performance indicat
 ## Data Model (Star Schema Diagram)
 To illustrate the relationships and connections between the tables:
 
-![Diagram showing the Star Schema Data Model with Fact and Dimension tables connected by primary and foreign keys.](images/Data model.png)
+![Diagram showing the Star Schema Data Model with Fact and Dimension tables connected by primary and foreign keys.](https://github.com/ibrahimreda114/Depi_Final-Project/blob/main/images/Data%20model.png)
 
